@@ -1,0 +1,5 @@
+D:\CSharpBasic\IntroProgramming\4.Print-First-and-Last-Name\bin\Debug\4.Print-First-and-Last-Name.exe.config
+D:\CSharpBasic\IntroProgramming\4.Print-First-and-Last-Name\bin\Debug\4.Print-First-and-Last-Name.exe
+D:\CSharpBasic\IntroProgramming\4.Print-First-and-Last-Name\bin\Debug\4.Print-First-and-Last-Name.pdb
+D:\CSharpBasic\IntroProgramming\4.Print-First-and-Last-Name\obj\Debug\4.Print-First-and-Last-Name.exe
+D:\CSharpBasic\IntroProgramming\4.Print-First-and-Last-Name\obj\Debug\4.Print-First-and-Last-Name.pdb

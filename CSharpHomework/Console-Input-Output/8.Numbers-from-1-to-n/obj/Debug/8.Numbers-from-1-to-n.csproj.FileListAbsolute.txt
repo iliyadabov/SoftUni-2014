@@ -1,0 +1,4 @@
+D:\CSharpHomework\Console-Input-Output\8.Numbers-from-1-to-n\bin\Debug\8.Numbers-from-1-to-n.exe
+D:\CSharpHomework\Console-Input-Output\8.Numbers-from-1-to-n\bin\Debug\8.Numbers-from-1-to-n.pdb
+D:\CSharpHomework\Console-Input-Output\8.Numbers-from-1-to-n\obj\Debug\8.Numbers-from-1-to-n.exe
+D:\CSharpHomework\Console-Input-Output\8.Numbers-from-1-to-n\obj\Debug\8.Numbers-from-1-to-n.pdb

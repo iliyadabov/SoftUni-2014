@@ -1,0 +1,5 @@
+D:\CSharpHomework\Conditional-Statements\4.Multiplication-Sign\bin\Debug\4.Multiplication-Sign.exe
+D:\CSharpHomework\Conditional-Statements\4.Multiplication-Sign\bin\Debug\4.Multiplication-Sign.pdb
+D:\CSharpHomework\Conditional-Statements\4.Multiplication-Sign\obj\Debug\4.Multiplication-Sign.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Conditional-Statements\4.Multiplication-Sign\obj\Debug\4.Multiplication-Sign.exe
+D:\CSharpHomework\Conditional-Statements\4.Multiplication-Sign\obj\Debug\4.Multiplication-Sign.pdb

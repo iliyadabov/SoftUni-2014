@@ -1,0 +1,5 @@
+D:\CSharpBasic\IntroProgramming\7.Reformat-CSharp-Code\bin\Debug\7.Reformat-CSharp-Code.exe
+D:\CSharpBasic\IntroProgramming\7.Reformat-CSharp-Code\bin\Debug\7.Reformat-CSharp-Code.pdb
+D:\CSharpBasic\IntroProgramming\7.Reformat-CSharp-Code\obj\Debug\7.Reformat-CSharp-Code.csprojResolveAssemblyReference.cache
+D:\CSharpBasic\IntroProgramming\7.Reformat-CSharp-Code\obj\Debug\7.Reformat-CSharp-Code.exe
+D:\CSharpBasic\IntroProgramming\7.Reformat-CSharp-Code\obj\Debug\7.Reformat-CSharp-Code.pdb

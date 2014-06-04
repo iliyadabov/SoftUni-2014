@@ -1,0 +1,4 @@
+D:\SoftUni 2014\CSharpHomework\Loops\15.Hexadecimal-to-Decimal\bin\Debug\15.Hexadecimal-to-Decimal.exe
+D:\SoftUni 2014\CSharpHomework\Loops\15.Hexadecimal-to-Decimal\bin\Debug\15.Hexadecimal-to-Decimal.pdb
+D:\SoftUni 2014\CSharpHomework\Loops\15.Hexadecimal-to-Decimal\obj\Debug\15.Hexadecimal-to-Decimal.exe
+D:\SoftUni 2014\CSharpHomework\Loops\15.Hexadecimal-to-Decimal\obj\Debug\15.Hexadecimal-to-Decimal.pdb

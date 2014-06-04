@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\1.Declare-Variables\obj\Debug\1.Declare-Variables.csprojResolveAssemblyReference.cache
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\1.Declare-Variables\bin\Debug\1.Declare-Variables.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\1.Declare-Variables\bin\Debug\1.Declare-Variables.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\1.Declare-Variables\obj\Debug\1.Declare-Variables.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\1.Declare-Variables\obj\Debug\1.Declare-Variables.pdb

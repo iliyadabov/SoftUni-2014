@@ -1,0 +1,4 @@
+D:\CSharpHomework\Console-Input-Output\4.Number-Comparer\bin\Debug\4.Number-Comparer.exe
+D:\CSharpHomework\Console-Input-Output\4.Number-Comparer\bin\Debug\4.Number-Comparer.pdb
+D:\CSharpHomework\Console-Input-Output\4.Number-Comparer\obj\Debug\4.Number-Comparer.exe
+D:\CSharpHomework\Console-Input-Output\4.Number-Comparer\obj\Debug\4.Number-Comparer.pdb

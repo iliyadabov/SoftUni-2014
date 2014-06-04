@@ -1,0 +1,4 @@
+D:\CSharpHomework\Console-Input-Output\9.Sum-of-n-Numbers\bin\Debug\9.Sum-of-n-Numbers.exe
+D:\CSharpHomework\Console-Input-Output\9.Sum-of-n-Numbers\bin\Debug\9.Sum-of-n-Numbers.pdb
+D:\CSharpHomework\Console-Input-Output\9.Sum-of-n-Numbers\obj\Debug\9.Sum-of-n-Numbers.exe
+D:\CSharpHomework\Console-Input-Output\9.Sum-of-n-Numbers\obj\Debug\9.Sum-of-n-Numbers.pdb

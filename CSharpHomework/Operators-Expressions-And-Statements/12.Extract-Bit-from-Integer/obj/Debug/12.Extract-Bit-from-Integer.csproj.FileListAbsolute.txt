@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\12.Extract-Bit-from-Integer\bin\Debug\12.Extract-Bit-from-Integer.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\12.Extract-Bit-from-Integer\bin\Debug\12.Extract-Bit-from-Integer.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\12.Extract-Bit-from-Integer\obj\Debug\12.Extract-Bit-from-Integer.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Operators-Expressions-And-Statements\12.Extract-Bit-from-Integer\obj\Debug\12.Extract-Bit-from-Integer.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\12.Extract-Bit-from-Integer\obj\Debug\12.Extract-Bit-from-Integer.pdb

@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Variable-in-Hexadecimal-Format\bin\Debug\Variable-in-Hexadecimal-Format.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Variable-in-Hexadecimal-Format\bin\Debug\Variable-in-Hexadecimal-Format.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Variable-in-Hexadecimal-Format\obj\Debug\Variable-in-Hexadecimal-Format.csprojResolveAssemblyReference.cache
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Variable-in-Hexadecimal-Format\obj\Debug\Variable-in-Hexadecimal-Format.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Variable-in-Hexadecimal-Format\obj\Debug\Variable-in-Hexadecimal-Format.pdb

@@ -1,0 +1,2 @@
+D:\CSharpBasic\IntroProgramming\Print-Your-Name\obj\Debug\Print-Your-Name.exe
+D:\CSharpBasic\IntroProgramming\Print-Your-Name\obj\Debug\Print-Your-Name.pdb

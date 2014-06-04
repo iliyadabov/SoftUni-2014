@@ -1,0 +1,2 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache

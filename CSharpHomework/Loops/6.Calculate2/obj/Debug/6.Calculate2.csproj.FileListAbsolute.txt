@@ -1,0 +1,5 @@
+D:\SoftUni 2014\CSharpHomework\Loops\6.Calculate2\bin\Debug\6.Calculate2.exe
+D:\SoftUni 2014\CSharpHomework\Loops\6.Calculate2\bin\Debug\6.Calculate2.pdb
+D:\SoftUni 2014\CSharpHomework\Loops\6.Calculate2\obj\Debug\6.Calculate2.csprojResolveAssemblyReference.cache
+D:\SoftUni 2014\CSharpHomework\Loops\6.Calculate2\obj\Debug\6.Calculate2.exe
+D:\SoftUni 2014\CSharpHomework\Loops\6.Calculate2\obj\Debug\6.Calculate2.pdb

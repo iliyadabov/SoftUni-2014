@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\11.Bank-Account-Data\bin\Debug\11.Bank-Account-Data.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\11.Bank-Account-Data\bin\Debug\11.Bank-Account-Data.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\11.Bank-Account-Data\obj\Debug\11.Bank-Account-Data.csprojResolveAssemblyReference.cache
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\11.Bank-Account-Data\obj\Debug\11.Bank-Account-Data.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\11.Bank-Account-Data\obj\Debug\11.Bank-Account-Data.pdb

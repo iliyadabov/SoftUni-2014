@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\3.Divide-by-7-and-5\bin\Debug\3.Divide-by-7-and-5.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\3.Divide-by-7-and-5\bin\Debug\3.Divide-by-7-and-5.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\3.Divide-by-7-and-5\obj\Debug\3.Divide-by-7-and-5.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Operators-Expressions-And-Statements\3.Divide-by-7-and-5\obj\Debug\3.Divide-by-7-and-5.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\3.Divide-by-7-and-5\obj\Debug\3.Divide-by-7-and-5.pdb

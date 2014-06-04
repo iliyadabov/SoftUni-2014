@@ -1,0 +1,7 @@
+D:\CSharpHomework\Loops\1.Numbers-From-One-To-N\bin\Debug\1.Numbers-From-One-To-N.exe
+D:\CSharpHomework\Loops\1.Numbers-From-One-To-N\bin\Debug\1.Numbers-From-One-To-N.pdb
+D:\CSharpHomework\Loops\1.Numbers-From-One-To-N\obj\Debug\1.Numbers-From-One-To-N.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Loops\1.Numbers-From-One-To-N\obj\Debug\1.Numbers-From-One-To-N.exe
+D:\CSharpHomework\Loops\1.Numbers-From-One-To-N\obj\Debug\1.Numbers-From-One-To-N.pdb
+D:\SoftUni 2014\CSharpHomework\Loops\1.Numbers-From-One-To-N\obj\Debug\1.Numbers-From-One-To-N.exe
+D:\SoftUni 2014\CSharpHomework\Loops\1.Numbers-From-One-To-N\obj\Debug\1.Numbers-From-One-To-N.pdb

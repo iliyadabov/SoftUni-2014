@@ -1,0 +1,2 @@
+D:\CSharpBasic\IntroProgramming\HalloCSharp\obj\Debug\HalloCSharp.exe
+D:\CSharpBasic\IntroProgramming\HalloCSharp\obj\Debug\HalloCSharp.pdb

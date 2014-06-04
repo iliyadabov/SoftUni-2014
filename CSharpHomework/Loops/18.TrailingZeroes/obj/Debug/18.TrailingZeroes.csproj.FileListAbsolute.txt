@@ -1,0 +1,1 @@
+D:\SoftUni 2014\CSharpHomework\Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe.config

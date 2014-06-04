@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\4.Rectangles\bin\Debug\4.Rectangles.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\4.Rectangles\bin\Debug\4.Rectangles.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\4.Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Operators-Expressions-And-Statements\4.Rectangles\obj\Debug\4.Rectangles.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\4.Rectangles\obj\Debug\4.Rectangles.pdb

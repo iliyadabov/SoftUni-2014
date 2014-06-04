@@ -1,0 +1,4 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\6.Strings-аnd-Objects\bin\Debug\6.Strings-аnd-Objects.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\6.Strings-аnd-Objects\bin\Debug\6.Strings-аnd-Objects.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\6.Strings-аnd-Objects\obj\Debug\6.Strings-аnd-Objects.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\6.Strings-аnd-Objects\obj\Debug\6.Strings-аnd-Objects.pdb

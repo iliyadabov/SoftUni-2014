@@ -1,0 +1,4 @@
+D:\CSharpBasic\IntroProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\CSharpBasic\IntroProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\CSharpBasic\IntroProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\CSharpBasic\IntroProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

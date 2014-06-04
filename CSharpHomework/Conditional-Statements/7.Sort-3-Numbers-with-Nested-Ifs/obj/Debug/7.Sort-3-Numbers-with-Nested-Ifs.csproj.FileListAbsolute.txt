@@ -1,0 +1,4 @@
+D:\CSharpHomework\Conditional-Statements\7.Sort-3-Numbers-with-Nested-Ifs\bin\Debug\7.Sort-3-Numbers-with-Nested-Ifs.exe
+D:\CSharpHomework\Conditional-Statements\7.Sort-3-Numbers-with-Nested-Ifs\bin\Debug\7.Sort-3-Numbers-with-Nested-Ifs.pdb
+D:\CSharpHomework\Conditional-Statements\7.Sort-3-Numbers-with-Nested-Ifs\obj\Debug\7.Sort-3-Numbers-with-Nested-Ifs.exe
+D:\CSharpHomework\Conditional-Statements\7.Sort-3-Numbers-with-Nested-Ifs\obj\Debug\7.Sort-3-Numbers-with-Nested-Ifs.pdb

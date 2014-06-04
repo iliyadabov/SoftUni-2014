@@ -1,0 +1,6 @@
+D:\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\bin\Debug\2.Numbers-Not-Divisible-By-3-And-7.exe
+D:\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\bin\Debug\2.Numbers-Not-Divisible-By-3-And-7.pdb
+D:\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\obj\Debug\2.Numbers-Not-Divisible-By-3-And-7.exe
+D:\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\obj\Debug\2.Numbers-Not-Divisible-By-3-And-7.pdb
+D:\SoftUni 2014\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\obj\Debug\2.Numbers-Not-Divisible-By-3-And-7.exe
+D:\SoftUni 2014\CSharpHomework\Loops\2.Numbers-Not-Divisible-By-3-And-7\obj\Debug\2.Numbers-Not-Divisible-By-3-And-7.pdb

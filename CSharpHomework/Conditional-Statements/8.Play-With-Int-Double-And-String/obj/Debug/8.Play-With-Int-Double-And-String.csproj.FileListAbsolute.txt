@@ -1,0 +1,4 @@
+D:\CSharpHomework\Conditional-Statements\8.Play-With-Int-Double-And-String\bin\Debug\8.Play-With-Int-Double-And-String.exe
+D:\CSharpHomework\Conditional-Statements\8.Play-With-Int-Double-And-String\bin\Debug\8.Play-With-Int-Double-And-String.pdb
+D:\CSharpHomework\Conditional-Statements\8.Play-With-Int-Double-And-String\obj\Debug\8.Play-With-Int-Double-And-String.exe
+D:\CSharpHomework\Conditional-Statements\8.Play-With-Int-Double-And-String\obj\Debug\8.Play-With-Int-Double-And-String.pdb

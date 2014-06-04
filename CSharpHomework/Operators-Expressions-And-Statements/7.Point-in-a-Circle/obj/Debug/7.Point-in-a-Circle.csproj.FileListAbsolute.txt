@@ -1,0 +1,4 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\7.Point-in-a-Circle\bin\Debug\7.Point-in-a-Circle.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\7.Point-in-a-Circle\bin\Debug\7.Point-in-a-Circle.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\7.Point-in-a-Circle\obj\Debug\7.Point-in-a-Circle.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\7.Point-in-a-Circle\obj\Debug\7.Point-in-a-Circle.pdb

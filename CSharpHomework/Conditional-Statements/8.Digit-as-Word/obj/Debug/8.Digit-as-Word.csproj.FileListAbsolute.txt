@@ -1,0 +1,4 @@
+D:\CSharpHomework\Conditional-Statements\8.Digit-as-Word\bin\Debug\8.Digit-as-Word.exe
+D:\CSharpHomework\Conditional-Statements\8.Digit-as-Word\bin\Debug\8.Digit-as-Word.pdb
+D:\CSharpHomework\Conditional-Statements\8.Digit-as-Word\obj\Debug\8.Digit-as-Word.exe
+D:\CSharpHomework\Conditional-Statements\8.Digit-as-Word\obj\Debug\8.Digit-as-Word.pdb

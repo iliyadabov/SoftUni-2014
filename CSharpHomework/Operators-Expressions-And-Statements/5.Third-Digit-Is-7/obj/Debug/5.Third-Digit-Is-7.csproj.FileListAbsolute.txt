@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\5.Third-Digit-Is-7\bin\Debug\5.Third-Digit-Is-7.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\5.Third-Digit-Is-7\bin\Debug\5.Third-Digit-Is-7.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\5.Third-Digit-Is-7\obj\Debug\5.Third-Digit-Is-7.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Operators-Expressions-And-Statements\5.Third-Digit-Is-7\obj\Debug\5.Third-Digit-Is-7.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\5.Third-Digit-Is-7\obj\Debug\5.Third-Digit-Is-7.pdb

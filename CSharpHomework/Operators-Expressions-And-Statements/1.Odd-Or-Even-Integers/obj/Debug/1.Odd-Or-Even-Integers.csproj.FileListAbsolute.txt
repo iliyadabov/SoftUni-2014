@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\1.Odd-Or-Even-Integers\bin\Debug\1.Odd-Or-Even-Integers.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\1.Odd-Or-Even-Integers\bin\Debug\1.Odd-Or-Even-Integers.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\1.Odd-Or-Even-Integers\obj\Debug\1.Odd-Or-Even-Integers.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\1.Odd-Or-Even-Integers\obj\Debug\1.Odd-Or-Even-Integers.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\1.Odd-Or-Even-Integers\obj\Debug\1.Odd-Or-Even-Integers.csprojResolveAssemblyReference.cache

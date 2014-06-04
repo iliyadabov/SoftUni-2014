@@ -1,0 +1,4 @@
+D:\CSharpBasic\IntroProgramming\6.Print-a-Sequence\bin\Debug\6.Print-a-Sequence.exe
+D:\CSharpBasic\IntroProgramming\6.Print-a-Sequence\bin\Debug\6.Print-a-Sequence.pdb
+D:\CSharpBasic\IntroProgramming\6.Print-a-Sequence\obj\Debug\6.Print-a-Sequence.exe
+D:\CSharpBasic\IntroProgramming\6.Print-a-Sequence\obj\Debug\6.Print-a-Sequence.pdb

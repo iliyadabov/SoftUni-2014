@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.Employee-Data\bin\Debug\10.Employee-Data.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.Employee-Data\bin\Debug\10.Employee-Data.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.Employee-Data\obj\Debug\10.Employee-Data.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.Employee-Data\obj\Debug\10.Employee-Data.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\10.Employee-Data\obj\Debug\10.Employee-Data.csprojResolveAssemblyReference.cache

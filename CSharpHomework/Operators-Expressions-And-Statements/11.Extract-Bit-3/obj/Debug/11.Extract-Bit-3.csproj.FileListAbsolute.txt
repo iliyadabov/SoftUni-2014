@@ -1,0 +1,5 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\11.Extract-Bit-3\bin\Debug\11.Extract-Bit-3.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\11.Extract-Bit-3\bin\Debug\11.Extract-Bit-3.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\11.Extract-Bit-3\obj\Debug\11.Extract-Bit-3.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Operators-Expressions-And-Statements\11.Extract-Bit-3\obj\Debug\11.Extract-Bit-3.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\11.Extract-Bit-3\obj\Debug\11.Extract-Bit-3.pdb

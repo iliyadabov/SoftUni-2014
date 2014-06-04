@@ -1,0 +1,4 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

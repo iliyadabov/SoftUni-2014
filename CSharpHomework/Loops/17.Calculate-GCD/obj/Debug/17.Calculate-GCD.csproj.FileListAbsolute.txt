@@ -1,0 +1,1 @@
+D:\SoftUni 2014\CSharpHomework\Loops\17.Calculate-GCD\bin\Debug\17.Calculate-GCD.exe.config

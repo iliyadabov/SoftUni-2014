@@ -1,0 +1,5 @@
+D:\CSharpHomework\Conditional-Statements\3.Check-For-A-Play-Card\bin\Debug\3.Check-For-A-Play-Card.exe
+D:\CSharpHomework\Conditional-Statements\3.Check-For-A-Play-Card\bin\Debug\3.Check-For-A-Play-Card.pdb
+D:\CSharpHomework\Conditional-Statements\3.Check-For-A-Play-Card\obj\Debug\3.Check-For-A-Play-Card.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Conditional-Statements\3.Check-For-A-Play-Card\obj\Debug\3.Check-For-A-Play-Card.exe
+D:\CSharpHomework\Conditional-Statements\3.Check-For-A-Play-Card\obj\Debug\3.Check-For-A-Play-Card.pdb

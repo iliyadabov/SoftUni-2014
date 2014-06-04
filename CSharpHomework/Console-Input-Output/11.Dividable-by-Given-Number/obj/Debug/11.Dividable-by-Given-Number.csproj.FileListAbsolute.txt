@@ -1,0 +1,4 @@
+D:\CSharpHomework\Console-Input-Output\11.Dividable-by-Given-Number\bin\Debug\11.Dividable-by-Given-Number.exe
+D:\CSharpHomework\Console-Input-Output\11.Dividable-by-Given-Number\bin\Debug\11.Dividable-by-Given-Number.pdb
+D:\CSharpHomework\Console-Input-Output\11.Dividable-by-Given-Number\obj\Debug\11.Dividable-by-Given-Number.exe
+D:\CSharpHomework\Console-Input-Output\11.Dividable-by-Given-Number\obj\Debug\11.Dividable-by-Given-Number.pdb

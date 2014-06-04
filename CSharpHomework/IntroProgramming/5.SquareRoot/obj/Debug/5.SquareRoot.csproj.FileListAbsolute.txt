@@ -1,0 +1,5 @@
+D:\CSharpBasic\IntroProgramming\5.SquareRoot\bin\Debug\5.SquareRoot.exe
+D:\CSharpBasic\IntroProgramming\5.SquareRoot\bin\Debug\5.SquareRoot.pdb
+D:\CSharpBasic\IntroProgramming\5.SquareRoot\obj\Debug\5.SquareRoot.csprojResolveAssemblyReference.cache
+D:\CSharpBasic\IntroProgramming\5.SquareRoot\obj\Debug\5.SquareRoot.exe
+D:\CSharpBasic\IntroProgramming\5.SquareRoot\obj\Debug\5.SquareRoot.pdb

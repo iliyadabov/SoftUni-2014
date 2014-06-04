@@ -1,0 +1,5 @@
+D:\CSharpHomework\Conditional-Statements\2.Bonus-Score\bin\Debug\2.Bonus-Score.exe
+D:\CSharpHomework\Conditional-Statements\2.Bonus-Score\bin\Debug\2.Bonus-Score.pdb
+D:\CSharpHomework\Conditional-Statements\2.Bonus-Score\obj\Debug\2.Bonus-Score.exe
+D:\CSharpHomework\Conditional-Statements\2.Bonus-Score\obj\Debug\2.Bonus-Score.pdb
+D:\CSharpHomework\Conditional-Statements\2.Bonus-Score\obj\Debug\2.Bonus-Score.csprojResolveAssemblyReference.cache

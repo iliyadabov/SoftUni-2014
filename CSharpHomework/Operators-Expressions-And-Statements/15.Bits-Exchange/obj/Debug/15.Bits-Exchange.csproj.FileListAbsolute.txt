@@ -1,0 +1,4 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\15.Bits-Exchange\bin\Debug\15.Bits-Exchange.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\15.Bits-Exchange\bin\Debug\15.Bits-Exchange.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\15.Bits-Exchange\obj\Debug\15.Bits-Exchange.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\15.Bits-Exchange\obj\Debug\15.Bits-Exchange.pdb

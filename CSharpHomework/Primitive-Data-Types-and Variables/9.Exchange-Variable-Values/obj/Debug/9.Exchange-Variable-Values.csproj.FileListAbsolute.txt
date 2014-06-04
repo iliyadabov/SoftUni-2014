@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\9.Exchange-Variable-Values\bin\Debug\9.Exchange-Variable-Values.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\9.Exchange-Variable-Values\bin\Debug\9.Exchange-Variable-Values.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\9.Exchange-Variable-Values\obj\Debug\9.Exchange-Variable-Values.csprojResolveAssemblyReference.cache
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\9.Exchange-Variable-Values\obj\Debug\9.Exchange-Variable-Values.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\9.Exchange-Variable-Values\obj\Debug\9.Exchange-Variable-Values.pdb

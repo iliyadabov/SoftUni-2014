@@ -1,0 +1,4 @@
+D:\CSharpHomework\Operators-Expressions-And-Statements\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle\bin\Debug\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle\bin\Debug\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle.pdb
+D:\CSharpHomework\Operators-Expressions-And-Statements\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle\obj\Debug\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle.exe
+D:\CSharpHomework\Operators-Expressions-And-Statements\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle\obj\Debug\10.Point-Inside-a-Circle-and-Outside-of-a-Rectangle.pdb

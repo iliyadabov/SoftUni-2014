@@ -1,0 +1,4 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\14.Print-the-ASCII-Table\bin\Debug\14.Print-the-ASCII-Table.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\14.Print-the-ASCII-Table\bin\Debug\14.Print-the-ASCII-Table.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\14.Print-the-ASCII-Table\obj\Debug\14.Print-the-ASCII-Table.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\14.Print-the-ASCII-Table\obj\Debug\14.Print-the-ASCII-Table.pdb

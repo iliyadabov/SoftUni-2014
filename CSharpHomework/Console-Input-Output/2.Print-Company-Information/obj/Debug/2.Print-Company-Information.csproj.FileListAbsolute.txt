@@ -1,0 +1,6 @@
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.exe.config
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.exe
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.pdb
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.exe
+D:\CSharpHomework\Console-Input-Output\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.pdb

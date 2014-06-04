@@ -1,0 +1,5 @@
+D:\CSharpHomework\Console-Input-Output\6.Quadratic-Equation\bin\Debug\6.Quadratic-Equation.exe
+D:\CSharpHomework\Console-Input-Output\6.Quadratic-Equation\bin\Debug\6.Quadratic-Equation.pdb
+D:\CSharpHomework\Console-Input-Output\6.Quadratic-Equation\obj\Debug\6.Quadratic-Equation.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Console-Input-Output\6.Quadratic-Equation\obj\Debug\6.Quadratic-Equation.exe
+D:\CSharpHomework\Console-Input-Output\6.Quadratic-Equation\obj\Debug\6.Quadratic-Equation.pdb

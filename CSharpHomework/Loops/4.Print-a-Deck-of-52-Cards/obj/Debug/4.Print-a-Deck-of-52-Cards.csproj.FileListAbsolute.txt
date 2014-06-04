@@ -1,0 +1,6 @@
+D:\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\bin\Debug\4.Print-a-Deck-of-52-Cards.exe
+D:\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\bin\Debug\4.Print-a-Deck-of-52-Cards.pdb
+D:\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\obj\Debug\4.Print-a-Deck-of-52-Cards.exe
+D:\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\obj\Debug\4.Print-a-Deck-of-52-Cards.pdb
+D:\SoftUni 2014\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\obj\Debug\4.Print-a-Deck-of-52-Cards.exe
+D:\SoftUni 2014\CSharpHomework\Loops\4.Print-a-Deck-of-52-Cards\obj\Debug\4.Print-a-Deck-of-52-Cards.pdb

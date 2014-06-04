@@ -1,0 +1,5 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\5. Boolean-Variable\bin\Debug\_5.Boolean_Variable.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\5. Boolean-Variable\bin\Debug\_5.Boolean_Variable.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\5. Boolean-Variable\obj\Debug\_5.Boolean_Variable.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\5. Boolean-Variable\obj\Debug\_5.Boolean_Variable.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\5. Boolean-Variable\obj\Debug\5. Boolean-Variable.csprojResolveAssemblyReference.cache

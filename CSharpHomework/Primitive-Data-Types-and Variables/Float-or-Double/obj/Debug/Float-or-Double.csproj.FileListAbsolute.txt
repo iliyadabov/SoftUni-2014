@@ -1,0 +1,4 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Float-or-Double\bin\Debug\Float-or-Double.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Float-or-Double\bin\Debug\Float-or-Double.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Float-or-Double\obj\Debug\Float-or-Double.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\Float-or-Double\obj\Debug\Float-or-Double.pdb

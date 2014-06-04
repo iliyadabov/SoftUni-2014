@@ -1,0 +1,5 @@
+D:\CSharpBasic\IntroProgramming\HalloCSharp\bin\Debug\HalloCSharp.exe
+D:\CSharpBasic\IntroProgramming\HalloCSharp\bin\Debug\HalloCSharp.pdb
+D:\CSharpBasic\IntroProgramming\HalloCSharp\obj\Debug\HalloCSharp.csprojResolveAssemblyReference.cache
+D:\CSharpBasic\IntroProgramming\HalloCSharp\obj\Debug\HalloCSharp.exe
+D:\CSharpBasic\IntroProgramming\HalloCSharp\obj\Debug\HalloCSharp.pdb

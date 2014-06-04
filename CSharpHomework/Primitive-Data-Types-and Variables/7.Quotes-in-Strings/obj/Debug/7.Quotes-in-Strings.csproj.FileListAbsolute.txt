@@ -1,0 +1,4 @@
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\7.Quotes-in-Strings\bin\Debug\7.Quotes-in-Strings.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\7.Quotes-in-Strings\bin\Debug\7.Quotes-in-Strings.pdb
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\7.Quotes-in-Strings\obj\Debug\7.Quotes-in-Strings.exe
+D:\Primitive Data Types and Variables\Primitive-Data-Types-and Variables\7.Quotes-in-Strings\obj\Debug\7.Quotes-in-Strings.pdb

@@ -1,0 +1,4 @@
+D:\CSharpHomework\Conditional-Statements\6.The-Biggest-of-Five-Numbers\bin\Debug\6.The-Biggest-of-Five-Numbers.exe
+D:\CSharpHomework\Conditional-Statements\6.The-Biggest-of-Five-Numbers\bin\Debug\6.The-Biggest-of-Five-Numbers.pdb
+D:\CSharpHomework\Conditional-Statements\6.The-Biggest-of-Five-Numbers\obj\Debug\6.The-Biggest-of-Five-Numbers.exe
+D:\CSharpHomework\Conditional-Statements\6.The-Biggest-of-Five-Numbers\obj\Debug\6.The-Biggest-of-Five-Numbers.pdb
